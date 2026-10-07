@@ -243,7 +243,7 @@ img { max-width: 100%; }
   flex: none; display: inline-block; width: 18px; height: 12px; border-radius: 2px;
   box-shadow: 0 0 0 1px var(--line);
 }
-.mini-flag.rs { background: url("assets/flag-rs.png") center / cover; }
+.mini-flag.rs { background: url("flag-rs.png") center / cover; }
 .mini-flag.nl { background: linear-gradient(#AE1C28 0 33.3%, #fff 33.3% 66.6%, #21468B 66.6%); }
 
 /* cards */
